@@ -4,11 +4,13 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: >-
+    /images/a-sleek-and-modern-youtube-channel-logo-featuring--K_CSiGzfS3CiULsRVrOkvQ-HEXmwyrrTrWGVT-6jWgFSA
+    (1).jpeg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 76
 sections:
   - elementId: ''
     colors: colors-f
@@ -47,6 +49,12 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    media:
+      type: ImageBlock
+      url: /images/dihslfddasfasdfasldifgsaidfsda.png
+      altText: image1
+      caption: title of movies
+      elementId: 'element id '
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -84,7 +92,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
