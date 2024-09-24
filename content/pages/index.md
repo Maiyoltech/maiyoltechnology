@@ -54,7 +54,7 @@ sections:
       url: /images/dihslfddasfasdfasldifgsaidfsda.png
       altText: image1
       caption: title of movies
-      elementId: ''
+      elementId: 'element id '
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
