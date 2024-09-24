@@ -52,7 +52,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/dihslfddasfasdfasldifgsaidfsda.png
-      altText: altText of the image
+      altText: image1
       caption: Caption of the image
       elementId: ''
   - colors: colors-f
