@@ -53,7 +53,7 @@ sections:
       type: ImageBlock
       url: /images/dihslfddasfasdfasldifgsaidfsda.png
       altText: image1
-      caption: Caption of the image
+      caption: title of movies
       elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
