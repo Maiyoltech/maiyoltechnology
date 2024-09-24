@@ -9,7 +9,7 @@ backgroundImage:
     (1).jpeg
   backgroundSize: auto
   backgroundPosition: center
-  backgroundRepeat: repeat
+  backgroundRepeat: no-repeat
   opacity: 76
 sections:
   - elementId: ''
