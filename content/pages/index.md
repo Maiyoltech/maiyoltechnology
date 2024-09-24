@@ -7,7 +7,7 @@ backgroundImage:
   url: >-
     /images/a-sleek-and-modern-youtube-channel-logo-featuring--K_CSiGzfS3CiULsRVrOkvQ-HEXmwyrrTrWGVT-6jWgFSA
     (1).jpeg
-  backgroundSize: auto
+  backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 76
