@@ -10,7 +10,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 30
+  opacity: 45
 sections:
   - elementId: ''
     colors: colors-f
